@@ -1,2 +1,2 @@
-# pylarAI-results
+# Pylar AI results
 Pylar AI Results
